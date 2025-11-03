@@ -1,6 +1,8 @@
 # 21 Days SQL Challenge 
 
-![SQL Challenge Banner](banner.jpg)
+<p align="center">
+  <img src="banner.jpg" alt="SQL Challenge Banner" width="400">
+</p>
 
 > A comprehensive SQL learning journey from beginner to advanced, organized by [Indian Data Club](http://indiandataclub.com/)
 
