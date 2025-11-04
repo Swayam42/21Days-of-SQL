@@ -23,6 +23,7 @@ This repository documents my progress through the **21-Day SQL Challenge** - a s
 | Day | Date  | Topic                                   | Key Concepts                                 |
 | --- | ----- | --------------------------------------- | -------------------------------------------- |
 | 01  | 03/11 | [Introduction to SQL & SELECT](Day-01/) | Basic SELECT, column selection, viewing data |
+| 02  | 04/11 | [Filtering with WHERE](Day-02/)         | WHERE clause, comparison operators, filtering |
 
 _More days coming soon as I progress through the challenge..._
 
