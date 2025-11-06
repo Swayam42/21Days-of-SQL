@@ -24,7 +24,8 @@ This repository documents my progress through the **21-Day SQL Challenge** - a s
 | --- | ----- | --------------------------------------- | -------------------------------------------- |
 | 01  | 03/11 | [Introduction to SQL & SELECT](Day-01/) | Basic SELECT, column selection, viewing data |
 | 02  | 04/11 | [Filtering with WHERE](Day-02/)         | WHERE clause, comparison operators, filtering |
-| 03  | 05/11 | [Sorting with ORDER BY](Day-03/)        | ASC/DESC, multiple column sorting  
+| 03  | 05/11 | [Sorting with ORDER BY](Day-03/)        | ASC/DESC, multiple column sorting  |
+| 04  | 06/11 | [LIMIT and OFFSET](Day-04/)             | Result limiting, pagination                   |
 _More days coming soon as I progress through the challenge..._
 
 ---
