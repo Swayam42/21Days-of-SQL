@@ -1,4 +1,4 @@
-# 21 Days SQL Challenge 
+# 21 Days SQL Challenge
 
 <p align="center">
   <img src="banner.jpg" alt="SQL Challenge Banner" width="400">
@@ -20,15 +20,19 @@ This repository documents my progress through the **21-Day SQL Challenge** - a s
 
 ### **Week 1: SQL Fundamentals**
 
-| Day | Date  | Topic                                   | Key Concepts                                 |
-| --- | ----- | --------------------------------------- | -------------------------------------------- |
-| 01  | 03/11 | [Introduction to SQL & SELECT](Day-01/) | Basic SELECT, column selection, viewing data |
+| Day | Date  | Topic                                   | Key Concepts                                  |
+| --- | ----- | --------------------------------------- | --------------------------------------------- |
+| 01  | 03/11 | [Introduction to SQL & SELECT](Day-01/) | Basic SELECT, column selection, viewing data  |
 | 02  | 04/11 | [Filtering with WHERE](Day-02/)         | WHERE clause, comparison operators, filtering |
-| 03  | 05/11 | [Sorting with ORDER BY](Day-03/)        | ASC/DESC, multiple column sorting  |
+| 03  | 05/11 | [Sorting with ORDER BY](Day-03/)        | ASC/DESC, multiple column sorting             |
 | 04  | 06/11 | [LIMIT and OFFSET](Day-04/)             | Result limiting, pagination                   |
+
+### **Week 2: Aggregation & Grouping**
+
+| Day | Date  | Topic                          | Key Concepts              |
+| --- | ----- | ------------------------------ | ------------------------- |
+| 05  | 07/11 | [Aggregate Functions](Day-05/) | COUNT, SUM, AVG, MIN, MAX |
+
 _More days coming soon as I progress through the challenge..._
 
 ---
-
-
-
