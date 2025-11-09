@@ -32,6 +32,7 @@ This repository documents my progress through the **21-Day SQL Challenge** - a s
 | Day | Date  | Topic                          | Key Concepts              |
 | --- | ----- | ------------------------------ | ------------------------- |
 | 05  | 07/11 | [Aggregate Functions](Day-05/) | COUNT, SUM, AVG, MIN, MAX |
+| 06  | 09/11 | [GROUP BY Clause](Day-06/)     | Grouping data, aggregating by categories |
 
 _More days coming soon as I progress through the challenge..._
 
