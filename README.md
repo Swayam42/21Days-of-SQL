@@ -36,6 +36,7 @@ This repository documents my progress through the **21-Day SQL Challenge** - a s
 | 07  | 10/11 | [HAVING Clause](Day-07/)       | Filtering grouped results                |
 | 08  | 11/11 | [String Functions](Day-08/) | UPPER, LOWER, LENGTH, CONCAT, SUBSTRING |
 | 09  | 12/11 | [Date Functions](Day-09/)   | Date arithmetic, EXTRACT, date formatting |
+| 10  | 13/11 | [CASE Statements](Day-10/)  | Conditional logic, derived columns        |
 _More days coming soon as I progress through the challenge..._
 
 ---
